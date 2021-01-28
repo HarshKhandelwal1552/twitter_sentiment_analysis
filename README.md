@@ -1,5 +1,5 @@
   
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://harshkhandelwal1552.github.io/)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://harshkhandelwal1552.github.io/) [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
 # twitter_sentiment_analysis
 This notebooks streams the tweets and do a sentiment analysis and have a view of the sentiments of the topic according to dates 
